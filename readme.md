@@ -7,8 +7,8 @@
 将直接在原文件上裁剪。原文件如果需要保留，请先备份。
 
 ## 使用方法
-1. 样例1：java com.wangjingya.tool.app 10，上下左右都各裁剪10像素
-2. 样例2：java com.wangjingya.tool.app 20 10，左右各裁剪20像素，上下各裁剪10像素
+1. 样例1：java com.wangjingya.tool.Clipper 10，上下左右都各裁剪10像素
+2. 样例2：java com.wangjingya.tool.Clipper 20 10，左右各裁剪20像素，上下各裁剪10像素
 
 ## 示例
 ### 命令
