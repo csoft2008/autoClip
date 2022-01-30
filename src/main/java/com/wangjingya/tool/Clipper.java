@@ -17,8 +17,8 @@ public class Clipper
     {
         if(args.length < 1){
             System.out.println("格式不对,正确格式为：");
-            System.out.println("样例1：java com.wangjingya.tool.app 10");
-            System.out.println("样例2：java com.wangjingya.tool.app 10 10");
+            System.out.println("样例1：java com.wangjingya.tool.Clipper 10");
+            System.out.println("样例2：java com.wangjingya.tool.Clipper 10 10");
             System.out.println("参数中数字分别为需要裁剪掉宽度和高度的像素值");
             return;
         }
